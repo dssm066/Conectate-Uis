@@ -6,7 +6,6 @@ Integrantes
 - Maria Alejandra Hernandez Perez — 2242001  
 - Vicktor Josué David Ardila Carreño — 2230266
 
-Introducción
 En el contexto universitario, la gestión de rutas y conexiones entre distintos edificios y zonas del campus puede ser compleja, especialmente cuando buscamos eficiencia y claridad en la información. La problemática surge al intentar representar estas conexiones de manera estructurada y navegable, de modo que se puedan consultar rutas, accesibilidad y relaciones jerárquicas de manera sencilla y visual.
 
 1. **Listas enlazadas:** la primera fase del proyecto consistió en manejar relaciones simples, uno a uno, entre los distintos puntos del campus. Esta implementación nos permitió comprender la base de la gestión de conexiones, pero mostró limitaciones a medida que el número de nodos y relaciones crecía.
